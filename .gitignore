@@ -2,3 +2,5 @@ connection_config.py
 .history/
 .envs/
 .notebook/
+
+__pycache__/
